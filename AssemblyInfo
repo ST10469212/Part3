@@ -1,0 +1,3 @@
+Every conversation between the user and the chatbot is stored. 
+Users can view the entire conversation history or save it to a text file for
+future reference. This allows previous interactions to be reviewed whenever needed.
