@@ -1,0 +1,3 @@
+The chatbot communicates with the WPF user interface using events. 
+These events send chatbot responses to the interface, notify the application when the quiz has finished, and request additional input from the user whenever required. 
+This keeps the chatbot logic separate from the user interface.
